@@ -2,6 +2,7 @@
     "name": "jingjun/tp5-repository",
     "type": "library",
     "keywords": ["tp5", "repository","thinkphp"],
+    "license": "Apache-2.0",
     "require": {
         "php": ">=7.0",
         "topthink/framework": "5.1.*"
